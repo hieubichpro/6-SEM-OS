@@ -53,12 +53,12 @@ int main(void)
 	{
         if ((bytes_read = recvfrom(sock_fd, buf, BUFFER_SIZE, 0, &client_addr, &addrlen)) == -1)
             perror("Can't recvfrom()");
-        printf("recv message: %s\n", buf);
+        printf("recv: %s\n", buf);
         
         buf[bytes_read] = '\0';
         sleep(2);
 
-        sprintf(copy_buf, "%d: %s\n", getpid(), buf);
+        sprintf(copy_buf, "%d --> %s\n", getpid(), buf);
         printf("send: %s\n", copy_buf);
         if (sendto(sock_fd, copy_buf, strlen(copy_buf) + 1, 0, &client_addr, addrlen) == -1)
             perror("Can't sendto()");
