@@ -55,7 +55,7 @@ int main()
         else
         {
             buf[bytes_read] = '\0';
-            printf("read: %s\n", buf);
+            printf("read message: %s\n", buf);
         }
 
         sleep(1);

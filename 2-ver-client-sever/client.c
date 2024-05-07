@@ -46,7 +46,7 @@ int main(void)
 		exit(1);
 	}
 	buf[bytes_read] = '\0';
-	printf("read from: %s\n", buf);
+	printf("read message: %s\n", buf);
 
 	close(sockfd);
     unlink(sockaddr.sa_data);

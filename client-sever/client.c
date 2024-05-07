@@ -14,7 +14,7 @@ int main()
     int fd = socket(AF_UNIX, SOCK_DGRAM, 0);
     if (fd < 0)
     {
-        perror("cant socket");
+        perror("cant socket");\
         exit(1);
     }
 
