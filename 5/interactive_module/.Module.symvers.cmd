@@ -1,0 +1,1 @@
+cmd_/home/hieubich/6-SEM-OS/load-module/p2/Module.symvers := sed 's/\.ko$$/\.o/' /home/hieubich/6-SEM-OS/load-module/p2/modules.order | scripts/mod/modpost -m -a  -o /home/hieubich/6-SEM-OS/load-module/p2/Module.symvers -e -i Module.symvers   -T -

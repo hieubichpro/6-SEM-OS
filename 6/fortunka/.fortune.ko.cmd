@@ -1,0 +1,1 @@
+cmd_/home/hieubich/6-SEM-OS/Fortunka/fortune.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/hieubich/6-SEM-OS/Fortunka/fortune.ko /home/hieubich/6-SEM-OS/Fortunka/fortune.o /home/hieubich/6-SEM-OS/Fortunka/fortune.mod.o;  true

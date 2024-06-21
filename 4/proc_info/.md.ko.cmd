@@ -1,0 +1,1 @@
+cmd_/home/hieubich/6-SEM-OS/load-module/p1/md.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/hieubich/6-SEM-OS/load-module/p1/md.ko /home/hieubich/6-SEM-OS/load-module/p1/md.o /home/hieubich/6-SEM-OS/load-module/p1/md.mod.o;  true

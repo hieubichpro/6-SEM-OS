@@ -1,0 +1,215 @@
+ENVIRON
+SHELL=/bin/bash
+SESSION_MANAGER=local/ubuntu-linux-22-04-desktop:@/tmp/.ICE-unix/2713,unix/ubuntu-linux-22-04-desktop:/tmp/.ICE-unix/2713
+QT_ACCESSIBILITY=1
+COLORTERM=truecolor
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+SSH_AGENT_LAUNCHER=gnome-keyring
+XDG_MENU_PREFIX=gnome-
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GTK_IM_MODULE=ibus
+LANGUAGE=ru:en
+LC_ADDRESS=ru_RU.UTF-8
+GNOME_SHELL_SESSION_MODE=ubuntu
+LC_NAME=ru_RU.UTF-8
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+XMODIFIERS=@im=ibus
+DESKTOP_SESSION=ubuntu
+LC_MONETARY=ru_RU.UTF-8
+GTK_MODULES=gail:atk-bridge
+PWD=/home/parallels/Desktop/OSLabs/sem6/proc/bakery1
+LOGNAME=parallels
+XDG_SESSION_DESKTOP=ubuntu
+XDG_SESSION_TYPE=x11
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+SYSTEMD_EXEC_PID=4316
+XAUTHORITY=/run/user/1000/gdm/Xauthority
+WINDOWPATH=2
+HOME=/home/parallels
+USERNAME=parallels
+LC_PAPER=ru_RU.UTF-8
+LANG=ru_RU.UTF-8
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+XDG_CURRENT_DESKTOP=ubuntu:GNOME
+VTE_VERSION=6800
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/f327bc26_02d8_4be5_bcdd_fd9b857e6e36
+QT_QPA_PLATFORM=xcb
+LESSCLOSE=/usr/bin/lesspipe %s %s
+XDG_SESSION_CLASS=user
+TERM=xterm-256color
+LC_IDENTIFICATION=ru_RU.UTF-8
+LESSOPEN=| /usr/bin/lesspipe %s
+USER=parallels
+GNOME_TERMINAL_SERVICE=:1.116
+DISPLAY=:1
+SHLVL=1
+LC_TELEPHONE=ru_RU.UTF-8
+QT_IM_MODULE=ibus
+LC_MEASUREMENT=ru_RU.UTF-8
+PAPERSIZE=a4
+XDG_RUNTIME_DIR=/run/user/1000
+LC_TIME=ru_RU.UTF-8
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+PATH=/home/parallels/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/usr/local/go/bin
+GDMSESSION=ubuntu
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+LC_NUMERIC=ru_RU.UTF-8
+OLDPWD=/home/parallels/Desktop/OSLabs/sem6/proc
+_=./bakery_server
+===========
+STAT
+pid: 10149
+comm: (bakery_server)
+state: S
+ppid: 4420
+pgrp: 10149
+session: 4420
+tty_nr: 34818
+tpgid: 10149
+flags: 1077936128
+minflt: 208
+cminflt: 0
+majflt: 0
+cmajflt: 0
+utime: 5
+stime: 0
+cutime: 0
+cstime: 0
+priority: 20
+nice: 0
+num_threads: 1
+itrealvalue: 0
+starttime: 153132
+vsize: 156078080
+rss: 408
+rsslim: 18446744073709551615
+startcode: 187650770206720
+endcode: 187650770213764
+startstack: 281474861830736
+kstkesp: 0
+kstkeip: 0
+signal: 0
+blocked: 0
+sigignore: 0
+sigcatch: 0
+wchan: 1
+nswap: 0
+cnswap: 0
+exit_signal: 17
+processor: 1
+rt_priority: 0
+policy: 0
+delayacct_blkio_ticks: 0
+guest_time: 0
+cguest_time: 0
+start_data: 187650770279568
+end_data: 187650770280465
+start_brk: 187651696795648
+arg_start: 281474861834970
+arg_end: 281474861834986
+env_start: 281474861834986
+env_end: 281474861838312
+env_code: 0
+
+CMDLINE
+./bakery_server
+FD
+0 -> /dev/pts/2
+1 -> /dev/pts/2
+2 -> /dev/pts/2
+3 -> socket:[61045]
+4 -> socket:[61047]
+CWD SYMLINK
+cwd -> /home/parallels/Desktop/OSLabs/sem6/proc/bakery1
+EXE SYMLINK
+exe -> /home/parallels/Desktop/OSLabs/sem6/proc/bakery1/bakery_server
+ROOT SYMLINK
+root -> /
+MAPS
+bytes     pages   addr                      perms  offset  dev   inode                     pathname
+    8192      2   aaaad9800000-aaaad9802000 r-xp 00000000 08:02 3027040                    /home/parallels/Desktop/OSLabs/sem6/proc/bakery1/bakery_server
+    4096      1   aaaad9811000-aaaad9812000 r--p 00001000 08:02 3027040                    /home/parallels/Desktop/OSLabs/sem6/proc/bakery1/bakery_server
+    4096      1   aaaad9812000-aaaad9813000 rw-p 00002000 08:02 3027040                    /home/parallels/Desktop/OSLabs/sem6/proc/bakery1/bakery_server
+  135168     33   aaab10baa000-aaab10bcb000 rw-p 00000000 00:00 0                          [heap]
+   65536     16   ffff9bf80000-ffff9bf90000 ---p 00000000 00:00 0 
+ 8388608   2048   ffff9bf90000-ffff9c790000 rw-p 00000000 00:00 0 
+   65536     16   ffff9c790000-ffff9c7a0000 ---p 00000000 00:00 0 
+ 8388608   2048   ffff9c7a0000-ffff9cfa0000 rw-p 00000000 00:00 0 
+   65536     16   ffff9cfa0000-ffff9cfb0000 ---p 00000000 00:00 0 
+ 8388608   2048   ffff9cfb0000-ffff9d7b0000 rw-p 00000000 00:00 0 
+   65536     16   ffff9d7b0000-ffff9d7c0000 ---p 00000000 00:00 0 
+ 8388608   2048   ffff9d7c0000-ffff9dfc0000 rw-p 00000000 00:00 0 
+   65536     16   ffff9dfc0000-ffff9dfd0000 ---p 00000000 00:00 0 
+ 8388608   2048   ffff9dfd0000-ffff9e7d0000 rw-p 00000000 00:00 0 
+   65536     16   ffff9e7d0000-ffff9e7e0000 ---p 00000000 00:00 0 
+ 8388608   2048   ffff9e7e0000-ffff9efe0000 rw-p 00000000 00:00 0 
+   65536     16   ffff9efe0000-ffff9eff0000 ---p 00000000 00:00 0 
+ 8388608   2048   ffff9eff0000-ffff9f7f0000 rw-p 00000000 00:00 0 
+   65536     16   ffff9f7f0000-ffff9f800000 ---p 00000000 00:00 0 
+ 8388608   2048   ffff9f800000-ffffa0000000 rw-p 00000000 00:00 0 
+  135168     33   ffffa0000000-ffffa0021000 rw-p 00000000 00:00 0 
+66973696   16351   ffffa0021000-ffffa4000000 ---p 00000000 00:00 0 
+   65536     16   ffffa4640000-ffffa4650000 ---p 00000000 00:00 0 
+ 8388608   2048   ffffa4650000-ffffa4e50000 rw-p 00000000 00:00 0 
+   65536     16   ffffa4e50000-ffffa4e60000 ---p 00000000 00:00 0 
+ 8388608   2048   ffffa4e60000-ffffa5660000 rw-p 00000000 00:00 0 
+   53248     13   ffffa5660000-ffffa566d000 r-xp 00000000 08:02 655947                     /usr/lib/aarch64-linux-gnu/libresolv.so.2
+   65536     16   ffffa566d000-ffffa567d000 ---p 0000d000 08:02 655947                     /usr/lib/aarch64-linux-gnu/libresolv.so.2
+    4096      1   ffffa567d000-ffffa567e000 r--p 0000d000 08:02 655947                     /usr/lib/aarch64-linux-gnu/libresolv.so.2
+    4096      1   ffffa567e000-ffffa567f000 rw-p 0000e000 08:02 655947                     /usr/lib/aarch64-linux-gnu/libresolv.so.2
+    8192      2   ffffa567f000-ffffa5681000 rw-p 00000000 00:00 0 
+   16384      4   ffffa5690000-ffffa5694000 r-xp 00000000 08:02 656602                     /usr/lib/aarch64-linux-gnu/libkeyutils.so.1.9
+   61440     15   ffffa5694000-ffffa56a3000 ---p 00004000 08:02 656602                     /usr/lib/aarch64-linux-gnu/libkeyutils.so.1.9
+    4096      1   ffffa56a3000-ffffa56a4000 r--p 00003000 08:02 656602                     /usr/lib/aarch64-linux-gnu/libkeyutils.so.1.9
+    4096      1   ffffa56a4000-ffffa56a5000 rw-p 00004000 08:02 656602                     /usr/lib/aarch64-linux-gnu/libkeyutils.so.1.9
+   49152     12   ffffa56b0000-ffffa56bc000 r-xp 00000000 08:02 656268                     /usr/lib/aarch64-linux-gnu/libkrb5support.so.0.1
+   61440     15   ffffa56bc000-ffffa56cb000 ---p 0000c000 08:02 656268                     /usr/lib/aarch64-linux-gnu/libkrb5support.so.0.1
+    4096      1   ffffa56cb000-ffffa56cc000 r--p 0000b000 08:02 656268                     /usr/lib/aarch64-linux-gnu/libkrb5support.so.0.1
+    4096      1   ffffa56cc000-ffffa56cd000 rw-p 0000c000 08:02 656268                     /usr/lib/aarch64-linux-gnu/libkrb5support.so.0.1
+   12288      3   ffffa56d0000-ffffa56d3000 r-xp 00000000 08:02 656724                     /usr/lib/aarch64-linux-gnu/libcom_err.so.2.1
+   61440     15   ffffa56d3000-ffffa56e2000 ---p 00003000 08:02 656724                     /usr/lib/aarch64-linux-gnu/libcom_err.so.2.1
+    4096      1   ffffa56e2000-ffffa56e3000 r--p 00002000 08:02 656724                     /usr/lib/aarch64-linux-gnu/libcom_err.so.2.1
+    4096      1   ffffa56e3000-ffffa56e4000 rw-p 00003000 08:02 656724                     /usr/lib/aarch64-linux-gnu/libcom_err.so.2.1
+  167936     41   ffffa56f0000-ffffa5719000 r-xp 00000000 08:02 656518                     /usr/lib/aarch64-linux-gnu/libk5crypto.so.3.1
+   65536     16   ffffa5719000-ffffa5729000 ---p 00029000 08:02 656518                     /usr/lib/aarch64-linux-gnu/libk5crypto.so.3.1
+    4096      1   ffffa5729000-ffffa572a000 r--p 00029000 08:02 656518                     /usr/lib/aarch64-linux-gnu/libk5crypto.so.3.1
+    4096      1   ffffa572a000-ffffa572b000 rw-p 0002a000 08:02 656518                     /usr/lib/aarch64-linux-gnu/libk5crypto.so.3.1
+  757760    185   ffffa5730000-ffffa57e9000 r-xp 00000000 08:02 658991                     /usr/lib/aarch64-linux-gnu/libkrb5.so.3.3
+   61440     15   ffffa57e9000-ffffa57f8000 ---p 000b9000 08:02 658991                     /usr/lib/aarch64-linux-gnu/libkrb5.so.3.3
+   45056     11   ffffa57f8000-ffffa5803000 r--p 000b8000 08:02 658991                     /usr/lib/aarch64-linux-gnu/libkrb5.so.3.3
+    8192      2   ffffa5803000-ffffa5805000 rw-p 000c3000 08:02 658991                     /usr/lib/aarch64-linux-gnu/libkrb5.so.3.3
+  311296     76   ffffa5810000-ffffa585c000 r-xp 00000000 08:02 656526                     /usr/lib/aarch64-linux-gnu/libgssapi_krb5.so.2.2
+   61440     15   ffffa585c000-ffffa586b000 ---p 0004c000 08:02 656526                     /usr/lib/aarch64-linux-gnu/libgssapi_krb5.so.2.2
+    8192      2   ffffa586b000-ffffa586d000 r--p 0004b000 08:02 656526                     /usr/lib/aarch64-linux-gnu/libgssapi_krb5.so.2.2
+    8192      2   ffffa586d000-ffffa586f000 rw-p 0004d000 08:02 656526                     /usr/lib/aarch64-linux-gnu/libgssapi_krb5.so.2.2
+ 1605632    392   ffffa5870000-ffffa59f8000 r-xp 00000000 08:02 655878                     /usr/lib/aarch64-linux-gnu/libc.so.6
+   61440     15   ffffa59f8000-ffffa5a07000 ---p 00188000 08:02 655878                     /usr/lib/aarch64-linux-gnu/libc.so.6
+   16384      4   ffffa5a07000-ffffa5a0b000 r--p 00187000 08:02 655878                     /usr/lib/aarch64-linux-gnu/libc.so.6
+    8192      2   ffffa5a0b000-ffffa5a0d000 rw-p 0018b000 08:02 655878                     /usr/lib/aarch64-linux-gnu/libc.so.6
+   49152     12   ffffa5a0d000-ffffa5a19000 rw-p 00000000 00:00 0 
+  172032     42   ffffa5a20000-ffffa5a4a000 r-xp 00000000 08:02 671072                     /usr/lib/aarch64-linux-gnu/libtirpc.so.3.0.0
+   65536     16   ffffa5a4a000-ffffa5a5a000 ---p 0002a000 08:02 671072                     /usr/lib/aarch64-linux-gnu/libtirpc.so.3.0.0
+    4096      1   ffffa5a5a000-ffffa5a5b000 r--p 0002a000 08:02 671072                     /usr/lib/aarch64-linux-gnu/libtirpc.so.3.0.0
+    4096      1   ffffa5a5b000-ffffa5a5c000 rw-p 0002b000 08:02 671072                     /usr/lib/aarch64-linux-gnu/libtirpc.so.3.0.0
+  176128     43   ffffa5a73000-ffffa5a9e000 r-xp 00000000 08:02 655859                     /usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1
+   24576      6   ffffa5aa4000-ffffa5aaa000 rw-p 00000000 00:00 0 
+    8192      2   ffffa5aaa000-ffffa5aac000 r--p 00000000 00:00 0                          [vvar]
+    4096      1   ffffa5aac000-ffffa5aad000 r-xp 00000000 00:00 0                          [vdso]
+    8192      2   ffffa5aad000-ffffa5aaf000 r--p 0002a000 08:02 655859                     /usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1
+    8192      2   ffffa5aaf000-ffffa5ab1000 rw-p 0002c000 08:02 655859                     /usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1
+  135168     33   fffff9252000-fffff9273000 rw-p 00000000 00:00 0                          [stack]
+Size bytes: 156078080
+Size pages: 38105
+IO
+rchar: 14228
+wchar: 641
+syscr: 27
+syscw: 14
+read_bytes: 0
+write_bytes: 0
+cancelled_write_bytes: 0
+COMM
+bakery_server
+
+TASK
+10149
